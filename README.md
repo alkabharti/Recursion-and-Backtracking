@@ -25,3 +25,9 @@ int fib(int n)
 }
 
 ```
+
+### Recursion on Subsequences :
+
+![image](https://user-images.githubusercontent.com/23376002/166149593-2534f42e-e774-416c-8828-5e3ad1594125.png)
+
+
