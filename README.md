@@ -8,6 +8,8 @@
 
 ![image](https://user-images.githubusercontent.com/23376002/166134826-9c2d8535-1858-438f-9ca5-bf220dea2532.png)
 
+### Parameterised and Functional Recursion :
+
 ![image](https://user-images.githubusercontent.com/23376002/166135482-134d9677-8a17-4d90-a685-26cefbb507b3.png)
 
 
@@ -29,5 +31,8 @@ int fib(int n)
 ### Recursion on Subsequences :
 
 ![image](https://user-images.githubusercontent.com/23376002/166149593-2534f42e-e774-416c-8828-5e3ad1594125.png)
+
+![image](https://user-images.githubusercontent.com/23376002/166149641-7b82170b-c5b5-40ed-97f0-53ce1bc1f1ad.png)
+
 
 
