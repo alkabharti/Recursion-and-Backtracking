@@ -34,5 +34,8 @@ int fib(int n)
 
 ![image](https://user-images.githubusercontent.com/23376002/166149641-7b82170b-c5b5-40ed-97f0-53ce1bc1f1ad.png)
 
+![image](https://user-images.githubusercontent.com/23376002/166150020-042b1064-c17a-4f76-844b-ad6f9368167b.png)
+
+
 
 
