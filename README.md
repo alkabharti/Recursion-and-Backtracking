@@ -11,4 +11,6 @@
 ![image](https://user-images.githubusercontent.com/23376002/166135482-134d9677-8a17-4d90-a685-26cefbb507b3.png)
 
 
-
+### Multiple Recursion calls :
+Calling simultaneously multiple recursive functions
+- e.g Nth fibonacci number problem
