@@ -14,3 +14,14 @@
 ### Multiple Recursion calls :
 Calling simultaneously multiple recursive functions
 - e.g Nth fibonacci number problem
+
+
+```java
+int fib(int n)
+{
+    if(n<=1)
+        return 1;
+    return fib(n-1) + fib(n-2);
+}
+
+```
