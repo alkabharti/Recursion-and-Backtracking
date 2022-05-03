@@ -48,8 +48,17 @@ int fib(int n)
 
 
 ```java
-
-
+int f()
+{
+    Base condition :
+        return 1 -> if condition satisfies
+        return 0 -> not satisfied
+        
+    int left = f();
+    int right = f();
+    
+    return left+right;
+}
 ```
 
 
