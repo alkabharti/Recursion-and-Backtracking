@@ -65,9 +65,11 @@ int f()
 
 ### All kinds of patterns in Recursion :
 
-- Print all subsequences : use parameterised recursive calls.
-- Print only one subsequence : return true/false (in Base case and even with calling functions using if condition : e.g if (f() == true) and avoid further recursice calls if we get true.
-- Count all the subsequences : Base condition - return 1 and return 0, and add all function calls and return. 
+- **Print all subsequences** : use parameterised recursive calls.
+
+- **Print only one subsequence** : return true/false (in Base case and even with calling functions using if condition : e.g if (f() == true) and avoid further recursice calls if we get true.
+
+- **Count all the subsequences** : Base condition - return 1 and return 0, and add all function calls and return. 
 
 
 
