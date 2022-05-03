@@ -39,6 +39,11 @@ int fib(int n)
 
 ### Print Subsequences on a given Sum :
 
+![image](https://user-images.githubusercontent.com/23376002/166411289-56487c27-c884-4b7f-8c61-90f0f59816a4.png)
+
+![image](https://user-images.githubusercontent.com/23376002/166411318-4346963b-10bc-462c-829c-201bd34bf8e9.png)
+
+
 
 
 
