@@ -47,6 +47,8 @@ int fib(int n)
 ### Count subsequences for a  given sum :
 
 
+##### In case of two function calls:
+
 ```java
 int f()
 {
