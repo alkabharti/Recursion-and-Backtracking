@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/23376002/166134204-d13561b6-3d97-4557-8798-f3aebb4de7ec.png)
 
-Stack space : space where the remaining non executed functions / non completed functions present. 
+**Stack space :** space where the remaining non executed functions / non completed functions present. 
 
 ![image](https://user-images.githubusercontent.com/23376002/166134813-5704f457-b8ee-4c01-bb24-9e4e50824b33.png)
 
